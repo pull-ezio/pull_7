@@ -1,2 +1,2 @@
-This is the first line added while in pull-ezio repo on local machine.
+This is the first line added while in pull-ezio repo. From this point on, I have edited the first line as well after it was forked.
 After it was forked,this line was added while I was on ezio647 repository.
